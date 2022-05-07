@@ -13,7 +13,7 @@
 **<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/temp.py">temp.py</a>**: back-up of Main.py file<br>
 
 ## Team:
-> **Project Guide**: Asst. Prof. Sahana B. (Department of ECE, RV College of Enginnering)<br><br>
+> **Project Guide**: Asst. Prof. Sahana B. (Department of ECE, RV College of Engineering)<br><br>
 > **Team Members**:
 > 1. Satvik Tiwari: [satviktiwari](https://github.com/satviktiwari) <br>
 > 2. Pulkit Sharma: [dudepulkit](https://github.com/dudepulkit) <br>
